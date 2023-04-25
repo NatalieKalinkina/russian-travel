@@ -3,4 +3,8 @@
   text-decoration: none;
   width: 100%;
   aspect-ratio: 8 / 5;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
